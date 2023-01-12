@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{https://63bf748d786c61722ebc5765--euphonious-conkies-e10483.netlify.app/}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{https://github.com/sebaspaez/404PageNotFound-challenge/edit/main}">
       Solution
     </a>
     <span> | </span>
