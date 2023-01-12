@@ -67,9 +67,16 @@ footer span {
     .content {
         display: flex;
         justify-content: space-around;
+        align-items: center;
+        padding: 100px;
     }
 
     .info h1 {
         width: 60%;
+        font-size: 64px;
+    }
+
+    .info p {
+        font-size: 24px;
     }
 }
